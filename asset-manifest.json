@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blog-frontend-project/static/css/main.19614808.css",
+    "main.js": "/Blog-frontend-project/static/js/main.838747a3.js",
+    "index.html": "/Blog-frontend-project/index.html",
+    "main.19614808.css.map": "/Blog-frontend-project/static/css/main.19614808.css.map",
+    "main.838747a3.js.map": "/Blog-frontend-project/static/js/main.838747a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19614808.css",
+    "static/js/main.838747a3.js"
+  ]
+}
